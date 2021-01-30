@@ -11,9 +11,9 @@
     <a href="https://github.com/arpan61">
     <img align="center" src=https://github-readme-stats.vercel.app/api?username=arpan61&show_icons=true&hide=issues&theme=buefy&count_private=true" alt="Arpan patel's github stats" />
     </a>
-<!--     <a href="https://github.com/arpan61"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arpan61&layout=compact&theme=buefy"/></a>
+<!--     <a href="https://github.com/arpan61"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arpan61&layout=compact&theme=buefy"/></a> -->
 </div>
-
+<!-- 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
 <div align="center">
