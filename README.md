@@ -1,10 +1,5 @@
-### Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Arpan Patel](https://www.linkedin.com/in/arpanvpatel/) 
-
-<!--
-**Arpan61/Arpan61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Arpan Patel](https://www.linkedin.com/in/arpanvpatel/) 
+## I'm a Software Engineer 💻!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
 <div align="center">
     <a href="https://github.com/Arpan61">
     <img align="center" src=https://github-readme-stats.vercel.app/api?username=Arpan61&show_icons=true&hide=issues&theme=buefy&count_private=true" alt="Arpan Patel's github stats" />
