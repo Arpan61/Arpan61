@@ -1,15 +1,17 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Arpan Patel](https://www.linkedin.com/in/arpanvpatel/) 
+
 ## I'm a Software Engineer 💻!
-- 🔭 I’m currently working on a MERN stack project
+- 🔭 I’m currently working at MAQ Software!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books 📚
+
 ---
 <div align="center">
-    <a href="https://github.com/Arpan61">
-    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Arpan61&show_icons=true&hide=issues&theme=buefy&count_private=true" alt="Arpan Patel's github stats" />
+    <a href="https://github.com/arpan61">
+    <img align="center" src=https://github-readme-stats.vercel.app/api?username=arpan61&show_icons=true&hide=issues&theme=buefy&count_private=true" alt="Arpan patel's github stats" />
     </a>
-        <a href="https://github.com/jaysparkexel"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arpan61&layout=compact&theme=buefy"/></a>
+    <a href="https://github.com/arpan61"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arpan61&layout=compact&theme=buefy"/></a>
 </div>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
@@ -47,5 +49,5 @@
 
 <div align="center">
     <h2>🤝 Connect With Me 🤝</h2>
-    <p><a href="https://github.com/Arpan61" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/arpanvpatel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+    <p><a href="https://github.com/arpan61" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/arpanvpatel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
