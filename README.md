@@ -3,7 +3,7 @@
 ## I'm a Software Engineer 💻!
 - 🔭 I’m currently working at Expedia!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books 📚
 
 ---
